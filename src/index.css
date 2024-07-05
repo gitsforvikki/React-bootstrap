@@ -1,0 +1,21 @@
+.custome-image{
+  width: 200px;
+  height: 200px;
+}
+.pink-color{
+  color: #F85E9F;
+}
+.paid-text{
+  text-decoration-line: underline;
+  text-underline-offset: 8px;
+}
+
+.course-card{
+  max-width: 370px;
+}
+.course-description{
+  /* max-width : 300px
+  absolute;
+  top: 20px; */
+
+}
